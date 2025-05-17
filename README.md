@@ -217,4 +217,7 @@ loan_credit_score_tensorflow/
 
 Forever Open-Source ! Feel free to open a GitHub issue or submit a pull request.
 
+## Data Source
+https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction by BHAVIK JIKADARA
+
 *Developed by Kubilay.*
